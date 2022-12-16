@@ -6,6 +6,7 @@
   CS-3100
   Professor Hatem
 '''
+# commenting to join the GitHub
 # This file will host all of our actual functions so that our main.py is not cluttered
 import csv  # for csv file reading
 from cropClass import Crop
